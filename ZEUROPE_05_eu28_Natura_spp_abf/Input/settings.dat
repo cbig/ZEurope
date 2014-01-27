@@ -1,0 +1,11 @@
+[Settings]
+removal rule = 2
+warp factor  = 100
+edge removal = 1
+
+mask missing areas = 1
+area mask file  = ../../Data/0_masks/CBIG_LandWaterMaskEurope/CBIG_LandWater_r20b.tif
+
+use mask = 1
+mask file = ../../Data/0_masks/Natura2000_mask/Natura2000_europeExtracted/CBIG_Natura2000Mask_r20b.tif
+
